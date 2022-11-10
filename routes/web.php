@@ -12,6 +12,6 @@ Route::get('/tasks',[TaskController::class, 'index']);
 
 Route::get('/users', [UserController::class, 'index']);
 
-Route::get('/contact', oller::class, 'contact']);
+Route::get('/contact',[PagesController::class, 'contact']);
 
 Route::get('/about', [PagesController::class, 'about']);
