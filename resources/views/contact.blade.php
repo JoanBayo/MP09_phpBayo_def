@@ -13,41 +13,13 @@
                             <h2 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Get in touch</h2>
                             <div class="mt-8 grid grid-cols-1 gap-12 sm:grid-cols-2 sm:gap-x-8 sm:gap-y-12 lg:col-span-2 lg:mt-0">
                                 <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Collaborate</h3>
-                                    <dl class="mt-2 text-base text-gray-500">
-                                        <div>
-                                            <dt class="sr-only">Email</dt>
-                                            <dd>jbayo@iesebre.com</dd>
-                                        </div>
-                                        <div class="mt-1">
-                                            <dt class="sr-only">Phone number</dt>
-                                            <dd>+34 633-30-08-77</dd>
-                                        </div>
-                                    </dl>
-                                </div>
-                                <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Press</h3>
-                                    <dl class="mt-2 text-base text-gray-500">
-                                        <div>
-                                            <dt class="sr-only">Email</dt>
-                                            <dd>joanbaybe@gmial.com</dd>
-                                        </div>
-                                        <div class="mt-1">
-                                            <dt class="sr-only">Phone number</dt>
-                                            <dd>+34 633-30-08-77</dd>
-                                        </div>
-                                    </dl>
-                                </div>
-                                <div>
                                     <h3 class="text-lg font-medium leading-6 text-gray-900">Join our team</h3>
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
-                                            <dt class="sr-only">Email</dt>
-                                            <dd>support@example.com</dd>
+                                            <dd>jbayo@iesebre.com</dd>
                                         </div>
                                         <div class="mt-1">
-                                            <dt class="sr-only">Phone number</dt>
-                                            <dd>+1 (555) 123-4567</dd>
+                                            <dd>+34 633-30-08-77</dd>
                                         </div>
                                     </dl>
                                 </div>
@@ -55,12 +27,13 @@
                                     <h3 class="text-lg font-medium leading-6 text-gray-900">GitHub</h3>
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
-                                            <dt class="sr-only">Email</dt>
-                                            <dd>support@example.com</dd>
+                                            <dt class="sr-only">JoanBayo GitHub</dt>
+                                            <dt class="sr-only"><a href="https://github.com/JoanBayo">JoanBayo GitHub</a></dt>
+                                            <dd>/dd>
                                         </div>
-                                        <div class="mt-1">
-                                            <dt class="sr-only">Phone number</dt>
-                                            <dd>+1 (555) 123-4567</dd>
+                                        <div>
+                                            <dt class="sr-only"><a href="https://github.com/JoanBayo/MP09_phpBayo_def">ThisWeb GitHub</a></dt>
+                                            <dd>/dd>
                                         </div>
                                     </dl>
                                 </div>
