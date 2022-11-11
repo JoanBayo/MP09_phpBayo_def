@@ -6,11 +6,9 @@
             </div>
         </header>
         <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-
-            <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias dolor dolorem ex
-                explicabo harum maiores maxime modi, molestias non numquam officia praesentium quae quam recusandae
-                reiciendis saepe sed sunt totam?</p>
-
+            <p class="text-white">This web has been made, with Acacha YT Videos</p>
+            <a class="text-white" href="https://github.com/Acacha">Acacha GitHub</a>
+            <a class="text-white" href="https://www.youtube.com/playlist?list=PLyasg1A0hpk2vR_ocOHavVJiybYoB05pR">PHP per a desenvolupadors LARAVEL</a>
         </div>
 
     </div>

@@ -17,11 +17,11 @@
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
                                             <dt class="sr-only">Email</dt>
-                                            <dd>support@example.com</dd>
+                                            <dd>jbayo@iesebre.com</dd>
                                         </div>
                                         <div class="mt-1">
                                             <dt class="sr-only">Phone number</dt>
-                                            <dd>+1 (555) 123-4567</dd>
+                                            <dd>+34 633-30-08-77</dd>
                                         </div>
                                     </dl>
                                 </div>
@@ -30,11 +30,11 @@
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
                                             <dt class="sr-only">Email</dt>
-                                            <dd>support@example.com</dd>
+                                            <dd>joanbaybe@gmial.com</dd>
                                         </div>
                                         <div class="mt-1">
                                             <dt class="sr-only">Phone number</dt>
-                                            <dd>+1 (555) 123-4567</dd>
+                                            <dd>+34 633-30-08-77</dd>
                                         </div>
                                     </dl>
                                 </div>
@@ -52,7 +52,7 @@
                                     </dl>
                                 </div>
                                 <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Say hello</h3>
+                                    <h3 class="text-lg font-medium leading-6 text-gray-900">GitHub</h3>
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
                                             <dt class="sr-only">Email</dt>
@@ -70,10 +70,24 @@
                             <h2 class="text-2xl font-bold text-gray-900 sm:text-3xl sm:tracking-tight">Locations</h2>
                             <div class="mt-8 grid grid-cols-1 gap-12 sm:grid-cols-2 sm:gap-x-8 sm:gap-y-12 lg:col-span-2 lg:mt-0">
                                 <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Los Angeles</h3>
+                                    <h3 class="text-lg font-medium leading-6 text-gray-900">L'Aldea</h3>
                                     <div class="mt-2 text-base text-gray-500">
-                                        <p>4556 Brendan Ferry</p>
-                                        <p class="mt-1">Los Angeles, CA 90210</p>
+                                        <p>Casa Meua</p>
+                                        <p class="mt-1">Tarragona, 43896</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Tortosa</h3>
+                                    <div class="mt-2 text-base text-gray-500">
+                                        <p>Carrer de l'institut</p>
+                                        <p class="mt-1">Tarragona, 43518</p>
+                                    </div>
+                                </div>
+                                <div>
+                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Camarles</h3>
+                                    <div class="mt-2 text-base text-gray-500">
+                                        <p>Camp de Futbol/p>
+                                        <p class="mt-1">Tarragona, 43894</p>
                                     </div>
                                 </div>
                                 <div>
@@ -81,20 +95,6 @@
                                     <div class="mt-2 text-base text-gray-500">
                                         <p>886 Walter Streets</p>
                                         <p class="mt-1">New York, NY 12345</p>
-                                    </div>
-                                </div>
-                                <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Toronto</h3>
-                                    <div class="mt-2 text-base text-gray-500">
-                                        <p>7363 Cynthia Pass</p>
-                                        <p class="mt-1">Toronto, ON N3Y 4H8</p>
-                                    </div>
-                                </div>
-                                <div>
-                                    <h3 class="text-lg font-medium leading-6 text-gray-900">Chicago</h3>
-                                    <div class="mt-2 text-base text-gray-500">
-                                        <p>726 Mavis Island</p>
-                                        <p class="mt-1">Chicago, IL 60601</p>
                                     </div>
                                 </div>
                             </div>
