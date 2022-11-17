@@ -27,13 +27,10 @@
                                     <h3 class="text-lg font-medium leading-6 text-gray-900">GitHub</h3>
                                     <dl class="mt-2 text-base text-gray-500">
                                         <div>
-                                            <dt class="sr-only">JoanBayo GitHub</dt>
-                                            <dt class="sr-only"><a href="https://github.com/JoanBayo">JoanBayo GitHub</a></dt>
-                                            <dd>/dd>
+                                            <dd><a class="hover:text-blue-900" href="https://github.com/JoanBayo">JoanBayo GitHub</a></dd>
                                         </div>
-                                        <div>
-                                            <dt class="sr-only"><a href="https://github.com/JoanBayo/MP09_phpBayo_def">ThisWeb GitHub</a></dt>
-                                            <dd>/dd>
+                                        <div class="mt-1">
+                                            <dd><a class="hover:text-blue-900" href="https://github.com/JoanBayo/MP09_phpBayo_def">Preject GitHub</a></dd>
                                         </div>
                                     </dl>
                                 </div>
