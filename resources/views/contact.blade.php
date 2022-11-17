@@ -30,7 +30,7 @@
                                             <dd><a class="hover:text-blue-900" href="https://github.com/JoanBayo">JoanBayo GitHub</a></dd>
                                         </div>
                                         <div class="mt-1">
-                                            <dd><a class="hover:text-blue-900" href="https://github.com/JoanBayo/MP09_phpBayo_def">Preject GitHub</a></dd>
+                                            <dd><a class="hover:text-blue-900" href="https://github.com/JoanBayo/MP09_phpBayo_def">Project GitHub</a></dd>
                                         </div>
                                     </dl>
                                 </div>
